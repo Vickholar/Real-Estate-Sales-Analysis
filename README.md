@@ -1,5 +1,5 @@
 Real-Estate-Sales-Analysis
-🏡 Real Estate Sales Analysis (Power BI)
+Real Estate Sales Analysis (Power BI)
 
 This project explores U.S. real estate sales trends and pricing using Power BI.  
 It provides insights into property prices, sales volume, and regional trends across multiple states.
@@ -11,7 +11,7 @@ Key KPIs
 - Average Property Size: 212.49 m²
 - Average Lot Size: 4.19 hectares
 
- 📈 Key Insights
+ Key Insights
 - New York has the largest market size and highest number of sales.  
 - Average property prices peaked around 2010, then fluctuated.  
 - Sales concentrated in New York, Philadelphia, and Brooklyn.  
@@ -22,7 +22,7 @@ Key KPIs
 - Excel (data preparation)  
 
 
-💡 Business Value
+Business Value
 This analysis helps real estate investors, agencies, and policymakers understand:  
 - Pricing trends  
 - Regional demand  
